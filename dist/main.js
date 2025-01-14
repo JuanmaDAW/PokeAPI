@@ -1,4 +1,4 @@
-"use strict";
+//"use strict";
 // Variables
 let previous = document.querySelector("#previous");
 let next = document.querySelector("#next");
